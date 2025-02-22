@@ -16,6 +16,8 @@ Now, let’s write a simple "Hello, World!" program in Python.
 Open the hello_world.py file you just created in your text editor.
 Type the following code inside the file:
 print("Hello, World!")
+Printing Information 📢
+To make the computer say something, we use the print() function.
 This code tells Python to print the message Hello, World! on the terminal screen.
 
 
